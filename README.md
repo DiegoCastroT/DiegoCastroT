@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently studing Multiplataform Application Development.
 
-- 📚 I'm learning Java,JavaFX, SQL, markup languages and more...
+- 📚 I'm learning Java,JavaFX, Kotlin, SQL, markup languages, android and more...
   
 - 💡 I am focused on working on projects to improve my skill level.
   
