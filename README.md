@@ -24,20 +24,16 @@
   <section align="center">
     <table>
       <tr>
-        <td><img src="images/mock-up_main.png" alt="Main Screen Mockup" width="1000"/></td>
+        <td><img src="images/main.png" alt="Main Screen Mockup" width="1000"/></td>
         <td>Snapshot of the <strong>Pomodoro feature</strong> in my app, which helps users manage their time effectively.</td>
       </tr>
       <tr>
-        <td><img src="images/mock-up_tasks.jpg" alt="Task Fragment Mockup" width="1000"/></td>
+        <td><img src="images/tasks.png" alt="Task Fragment Mockup" width="1000"/></td>
         <td>Here’s a view of the <strong>task list</strong> that allows users to stay organized and focused.</td>
       </tr>
       <tr>
-        <td><img src="images/mock-up_rewards.png" alt="Rewards Mockup" width="1000"/></td>
-        <td>This section showcases the <strong>trophy system</strong> that motivates users to reach their productivity goals while also monitoring their effort.</td>
-      </tr>
-      <tr>
-        <td><img src="images/mock-up_tablet.png" alt="Tablet Compatibility Mockup" width="1000"/></td>
-        <td>Studiee <strong>fully compatible with tablets</strong>, providing a seamless experience on larger screens.</td>
+        <td><img src="images/tablet.png" alt="Rewards Mockup" width="1000"/></td>
+      <td>This section showcases the <strong>trophy system</strong>, designed to motivate users to achieve their productivity goals while keeping track of their progress. Studiee also provides ambient sounds to help users stay focused.</td>
       </tr>
     </table>
 
