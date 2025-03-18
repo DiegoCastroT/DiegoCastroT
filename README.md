@@ -20,7 +20,7 @@
 </div>
 
  # 🚀 Latest Project: Studiee
-
+🔗 DOWNLOAD NOW FREE WITHOUT ADS👉 bit.ly/StudieeApp
   <section align="center">
     <table>
       <tr>
@@ -37,7 +37,6 @@
       </tr>
     </table>
 
-   DOWNLOAD COMING SOON... 🕙🕙
   </section>
 
 <details>
