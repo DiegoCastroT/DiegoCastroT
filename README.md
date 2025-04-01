@@ -17,6 +17,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/></a>
 </div>
 
  # 🚀 Latest Project: Studiee
@@ -24,19 +26,10 @@
   <section align="center">
     <table>
       <tr>
-        <td><img src="images/main.png" alt="Main Screen Mockup" width="1300"/></td>
-        <td>Snapshot of the <strong>Pomodoro feature</strong> in my app, which helps users manage their time effectively.</td>
-      </tr>
-      <tr>
-        <td><img src="images/tasks.png" alt="Task Fragment Mockup" width="1300"/></td>
-        <td>Here’s a view of the <strong>task list</strong> that allows users to stay organized and focused.</td>
-      </tr>
-      <tr>
-        <td><img src="images/tablet.png" alt="Rewards Mockup" width="1300"/></td>
-      <td>This section showcases the <strong>trophy system</strong>, designed to motivate users to achieve their productivity goals while keeping track of their progress. Studiee also provides ambient sounds to help users stay focused.</td>
+        <td><img src="images/4.png" alt="All Screens Mockup" width="1300"/></td>
+       <td>Studiee: an Android productivity app with task management, Pomodoro timer, countdown, and ambient sounds to enhance focus.</td>
       </tr>
     </table>
-
   </section>
 
 <details>
