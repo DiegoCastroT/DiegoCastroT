@@ -23,14 +23,17 @@
 
  # 🚀 Latest Project: Studiee
 ### 🎉 DOWNLOAD FOR FREE (NO ADS) 👉 [**bit.ly/StudieeApp**](https://bit.ly/StudieeApp)
-  <section align="center">
-    <table>
-      <tr>
-        <td><img src="images/4.png" alt="All Screens Mockup" width="1300"/></td>
-       <td>Android productivity app with task management, Pomodoro timer, countdown, and ambient sounds to enhance focus.</td>
-      </tr>
-    </table>
-  </section>
+### 🎥 DEMO VIDEO [Watch here](https://youtu.be/AmpMHr1Wj0I)
+<section align="center">
+  <table>
+    <tr>
+      <td><img src="images/4.png" alt="All Screens Mockup" width="2000"/></td>
+    </tr>
+    <tr>
+    <td>Android productivity app with task management, Pomodoro timer, countdown, and ambient sounds to enhance focus.</td>
+    </tr>
+  </table>
+</section>
 
 <details>
   <summary>☎️ <h2>Contact Me</h2></summary>
