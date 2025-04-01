@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td><img src="images/4.png" alt="All Screens Mockup" width="1300"/></td>
-       <td>Studiee: an Android productivity app with task management, Pomodoro timer, countdown, and ambient sounds to enhance focus.</td>
+       <td>Android productivity app with task management, Pomodoro timer, countdown, and ambient sounds to enhance focus.</td>
       </tr>
     </table>
   </section>
